@@ -76,7 +76,7 @@ angular.module('MyApp', ['ngResource', 'ngMessages', 'ngAnimate', 'toastr', 'ui.
     });
 
     $authProvider.github({
-      clientId: 'YOUR_GITHUB_CLIENT_ID'
+        clientId: 'ba3e6692540298cbb3f3'
     });
 
     $authProvider.linkedin({

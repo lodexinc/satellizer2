@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneTarget>
+    <InterpreterPath>C:\Program Files\nodejs\node.exe</InterpreterPath>
+    <WorkingDirectory />
+    <Script>C:\Users\pcadmin\Documents\GitHub\satellizer2\server\node\server.js</Script>
+    <Arguments />
+  </StandaloneTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\pcadmin\Documents\GitHub\satellizer2\server_20170112.vspx</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
